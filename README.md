@@ -19,7 +19,7 @@ In order to create a more in-depth analysis of UFO sightings, we have been taske
 ## Results
 We successfully modified our code so that the webpage displays and filters by five search criterion: date, city, state, country, and shape. (See image below).
 
-![allfilters[(https://github.com/MichaelaAnastasiaAustin/UFOs/blob/main/static/images/all-filters.png)
+![allfilters](https://github.com/MichaelaAnastasiaAustin/UFOs/blob/main/static/images/all-filters.png)
 
 In order to access the data, a user can enter their search criterion in one, or all of the search boxes. For example, if a user was interested in searching for UFO sighting in the city "Fresno", they would enter "Fresno" into the city search box, and press enter. Then, the webpage would automatically update to filter for results that include the city name "Fresno". (See image below).
 
